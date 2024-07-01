@@ -32,7 +32,7 @@ export function Remove() {
 
     return (
         <View style={commonStyles.container}>
-            <Button title="Delete Weight" onPress={() => setModalVisible(true)} color={"#9F1905"}/>
+            <Button title="Delete Weight" onPress={() => setModalVisible(true)} color={"#18392b"}/>
             <Modal
                 animationType="slide"
                 transparent={true}
