@@ -37,7 +37,7 @@ export function Update() {
 
     return (
         <View style={commonStyles.container}>
-            <Button title="Update Weight" onPress={toggleModal} color={"#9F1905"}/>
+            <Button title="Update Weight" onPress={toggleModal} color={"#18392b"}/>
             <Modal
                 animationType="slide"
                 transparent={true}
