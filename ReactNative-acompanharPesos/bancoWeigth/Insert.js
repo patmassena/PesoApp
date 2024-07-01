@@ -48,7 +48,7 @@ export function Insert() {
 
     return (
         <View style={commonStyles.container}>
-            <Button title="Insert Weight" onPress={toggleModal} color={"#9F1905"}/>
+            <Button title="Insert Weight" onPress={toggleModal} color={"#18392b"}/>
             <Modal
                 animationType="slide"
                 transparent={true}
