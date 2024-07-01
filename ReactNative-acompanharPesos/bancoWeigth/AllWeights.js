@@ -38,7 +38,7 @@ export function AllWeights() {
 
     return (
         <View style={commonStyles.container}>
-            <Button title="Listar Pesagens" onPress={getAllWeights} color="#9F1905" />
+            <Button title="Listar Pesagens" onPress={getAllWeights} color="#18392b" />
             <Modal
                 animationType="slide"
                 transparent={true}
