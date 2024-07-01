@@ -3,8 +3,8 @@ import { StyleSheet } from 'react-native';
 export const commonStyles = StyleSheet.create({
     container: {
         flex: 1,
-        marginTop: 80,
-        width: "80%",
+        width: "60%",
+       justifyContent: "center",
     },
     centeredView: {
         flex: 1,
